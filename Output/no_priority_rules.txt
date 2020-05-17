@@ -1,0 +1,115 @@
+Rule: ASSISTANCE RENDERED -> INTOX & LIQ VIOLS - INTOXICATED PERSON
+Confidence: 97.75%
+Support: 1.13%
+Lift: 2.51
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 85.43%
+Support: 7.40%
+Lift: 2.19
+==================================================================
+Rule: AUTOMOBILES - AUTO THEFT -> REPORT WRITTEN (NO ARREST)
+Confidence: 86.85%
+Support: 0.91%
+Lift: 4.35
+==================================================================
+Rule: DV - ARGUMENTS, DISTURBANCE (NO ARREST) -> REPORT WRITTEN (NO ARREST)
+Confidence: 83.54%
+Support: 0.85%
+Lift: 4.18
+==================================================================
+Rule: ASSISTANCE RENDERED -> Early Morning
+Confidence: 80.01%
+Support: 0.63%
+Lift: 2.05
+==================================================================
+Rule: ASSISTANCE RENDERED -> Afternoon
+Confidence: 82.80%
+Support: 2.46%
+Lift: 2.13
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 82.33%
+Support: 0.62%
+Lift: 2.11
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 85.23%
+Support: 0.60%
+Lift: 2.19
+==================================================================
+Rule: ASSISTANCE RENDERED -> Dec
+Confidence: 88.37%
+Support: 0.55%
+Lift: 2.27
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 94.06%
+Support: 0.86%
+Lift: 2.42
+==================================================================
+Rule: ASSISTANCE RENDERED -> Early Morning
+Confidence: 91.41%
+Support: 1.43%
+Lift: 2.35
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 80.75%
+Support: 0.61%
+Lift: 2.07
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 82.88%
+Support: 0.57%
+Lift: 2.13
+==================================================================
+Rule: ASSISTANCE RENDERED -> Jan
+Confidence: 86.40%
+Support: 0.81%
+Lift: 2.22
+==================================================================
+Rule: ASSISTANCE RENDERED -> Jul
+Confidence: 85.82%
+Support: 0.53%
+Lift: 2.20
+==================================================================
+Rule: ASSISTANCE RENDERED -> Jun
+Confidence: 82.99%
+Support: 0.63%
+Lift: 2.13
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 86.52%
+Support: 0.70%
+Lift: 2.22
+==================================================================
+Rule: ASSISTANCE RENDERED -> May
+Confidence: 85.82%
+Support: 0.72%
+Lift: 2.20
+==================================================================
+Rule: ASSISTANCE RENDERED -> Morning
+Confidence: 86.17%
+Support: 2.19%
+Lift: 2.21
+==================================================================
+Rule: ASSISTANCE RENDERED -> PREMISE CHECKS - CRIME PREVENTION
+Confidence: 85.57%
+Support: 0.71%
+Lift: 2.20
+==================================================================
+Rule: ASSISTANCE RENDERED -> Nov
+Confidence: 87.17%
+Support: 0.56%
+Lift: 2.24
+==================================================================
+Rule: ASSISTANCE RENDERED -> Oct
+Confidence: 86.37%
+Support: 0.61%
+Lift: 2.22
+==================================================================
+Rule: TRAFFIC - MOVING VIOLATION -> CITATION ISSUED (CRIMINAL OR NON-CRIMINAL)
+Confidence: 83.26%
+Support: 0.50%
+Lift: 11.01
+==================================================================
